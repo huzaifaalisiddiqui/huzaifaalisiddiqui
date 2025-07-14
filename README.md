@@ -15,8 +15,8 @@
 ---
 
 ### 📫 Connect with Me  
-💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-📂 [GitHub](https://github.com/huzaifaali)  
+💼 [LinkedIn](https://www.linkedin.com/in/engr-huzaifa-ali-siddiqui)  
+📂 [GitHub](https://github.com/huzaifaalisiddiqui)  
 📧 Email: engr.huzaifaalisiddiqui26@gmail.com 
 
 ---
