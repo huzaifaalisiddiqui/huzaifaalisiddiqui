@@ -6,11 +6,11 @@
 
 ### 🛠 Skills  
 **Programming Languages:** JavaScript, C++, Python  
-**Front-End Development:** HTML, CSS, JavaScript, Bootstrap  
+**Front-End Development:** HTML, CSS, JavaScript, Bootstrap, ReactJS, TailwindCSS
 **Back-End Development:** NodeJS, ExpressJS  
 **Databases:** MongoDB, Oracle, MySQL  
 **Version Control:** Git  
-**Tools:** Visual Studio, VS Code, GitHub, MS Office  
+**Tools:** Visual Studio, VS Code, GitHub, MS Office, Copilot
 
 ---
 
