@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I am Huzaifa Ali Siddiqui </h1>
 
 <p align="center">
-  A devoted Software Engineering student at <b>NED University</b> with a strong interest in Web Development, SQL Databases, and modern technologies of the software engineering realm.
+  A devoted Software Engineering graduate from <b>NED University</b> with a strong interest in Web Development, SQL Databases, and modern technologies of the software engineering realm.
 </p>
 
 ### 🛠 Skills  
