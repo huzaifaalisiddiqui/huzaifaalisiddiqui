@@ -7,6 +7,7 @@
 ### 🛠 Skills  
 **Programming Languages:** JavaScript, C++, Python  
 **Front-End Development:** HTML, CSS, JavaScript, Bootstrap, ReactJS, TailwindCSS
+
 **Back-End Development:** NodeJS, ExpressJS  
 **Databases:** MongoDB, Oracle, MySQL  
 **Version Control:** Git  
